@@ -1,0 +1,43 @@
+{
+  "name": "vue-infinite-scroll-component",
+  "version": "1.0.0",
+  "author": "Gilad Shohat",
+  "description": "An Infinite Scroll component in Vue",
+  "homepage": "https://github.com/gshohat/vue-infinite-scroll-component#readme",
+  "license": "MIT",
+  "main": "./dist/infinite-scroll-component.umd.js",
+  "module": "./dist/infinite-scroll-component.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/infinite-scroll-component.es.js",
+      "require": "./dist/infinite-scroll-component.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "infinite-scroll",
+    "infinite",
+    "scroll",
+    "component",
+    "vue-component"
+  ]
+}
+
