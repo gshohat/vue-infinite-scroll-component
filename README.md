@@ -4,6 +4,8 @@
 
 **Lightweight** infinite scroll component for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 
+![infinite-scroll](https://github.com/gshohat/vue-infinite-scroll-component/assets/91323932/aba9d3c1-7c16-4633-bb0c-a55a6781ca09)
+
 ## Usage
 
 `npm i vue-infinite-scroll-component`
