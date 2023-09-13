@@ -1,6 +1,6 @@
 {
   "name": "vue-infinite-scroll-component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Gilad Shohat",
   "description": "An Infinite Scroll component in Vue",
   "homepage": "https://github.com/gshohat/vue-infinite-scroll-component#readme",
